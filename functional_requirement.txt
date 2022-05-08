@@ -1,0 +1,7 @@
+1. detect external storage devices(Format USB, flash card and virtual drives to FAT/FAT32/NTFS/UDF/exFAT/ReFS/ext2/ext3)
+2. format external storage devices of all types (NAT/etc)
+3. write to flash drives
+4. create bootable drives from bootable ISOs
+5. * partition for persistence
+6. Create BIOS or UEFI bootable drives, including UEFI bootable NTFS
+
